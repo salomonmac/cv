@@ -7,6 +7,12 @@ aside{
 background: rgba(129, 129, 129, 0.62);
     margin-left: -15px;
 }
-h1{
+h{
     color: #3597ba;
+}
+aside li{
+    font-size: 13.5px;
+    list-style: none;
+    margin-left: -40px;
+    border-bottom: 0.5px solid white;
 }
